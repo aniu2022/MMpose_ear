@@ -1,1 +1,6 @@
 # MMpose_ear
+使用rtmdet训练了目标检测模型，使用detpose训练了关键点检测模型。
+rtmdet_ear_rst:一张耳朵图像的目标检测结果；
+rtmdet_ear_20230604_195704.log:rtmdet模型在验证集上的性能测试；
+rtmpose_ear_rst:一张耳朵图像的关键点检测结果；
+rtmpose_ear_20230604_195704.log:rtmpose模型在验证集上的性能测试.
